@@ -10,9 +10,9 @@ rcat \<regex_pattern\> \<regex_replace_pattern\> \<files...\>
 ### example.txt
 
 <pre>
-Mario 192.168.0.1 logged in
+Mario 192.168.0.1 logged in.
 Mario left
-Luigi 192.168.0.1 logged in
+Luigi 192.168.0.1 logged in.
 Luigi requested file 2
 Luigi left
 </pre>
