@@ -19,7 +19,7 @@ Luigi left
 
 ### command
 
-`rcat '([^ \n]+) ([0-9A-Fa-f.:]+) logged in\.' 'name: $1, ip_address: $2' text.txt`
+`rcat '([^ \n]+) ([0-9A-Fa-f.:]+) logged in\.' 'name: $1, ip_address: $2' example.txt`
 
 ### output
 
